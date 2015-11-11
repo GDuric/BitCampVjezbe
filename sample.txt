@@ -4,3 +4,6 @@ Nesto sad promijenimo ovdje.
 
 Ovo je sa developmenta.
 Development nakon merganja.
+
+
+Sa drugog racunara...
